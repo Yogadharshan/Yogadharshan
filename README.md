@@ -6,8 +6,6 @@
 </p>
 
 
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on a Youtube Video Downloader
 - 🌱 I’m currently learning Automating with Python
