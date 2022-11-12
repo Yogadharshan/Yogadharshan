@@ -12,4 +12,7 @@ About Me:
 - 🤔 I’m looking for help with Web Scraping
 - 💬 Ask me about Web scraping and Python
 
+My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogadharshan&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
