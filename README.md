@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yogadharshan-c-610370233/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-![Yogadharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogadharshan&show_icons=true&theme=transparent)
 
 ### 🔥 &nbsp; About Me :
 - 🔭 I’m currently working on a Youtube Video Downloader
@@ -18,3 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogadharshan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Yogadharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogadharshan&show_icons=true&theme=transparent)
