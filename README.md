@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://images.app.goo.gl/gVZK6CvhDHnjNqYQA"/>
-</div>
+<p align="center"><img src="https://images.app.goo.gl/gVZK6CvhDHnjNqYQA" width="100"/></p>
+<a href="https://www.linkedin.com/in/yogadharshan-c-610370233/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <!--
 **Yogadharshan/Yogadharshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
