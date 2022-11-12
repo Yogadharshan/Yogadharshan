@@ -12,5 +12,8 @@
 - 👯 I’m looking to collaborate on Automating with Python
 - 🤔 I’m looking for help with Web Scraping
 - 💬 Ask me about Web scraping and Python
-- 📫 How to reach me: 
+Reach me at:
+- <p><img src="https://images.app.goo.gl/TEjm5qNyKZ2yigrr8" alt = "gmail" href ="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxGvDpgwqlJzcTdndPNlJkSrDgPsNPfFGBBJKrmBSvrmwCxpnkgwnBDMVJhWCdvmcmQKlW"</p>
+- <p><img src="<p><img src="https://images.app.goo.gl/TEjm5qNyKZ2yigrr8"  alt = "gmail" href ="https://twitter.com/yoga_dharshan/"alt= "twitter"</p>
+- <p><img src="<p><img src="https://images.app.goo.gl/epoicqm2uADGc83p9" alt = "gmail" href ="https://twitter.com/yoga_dharshan/"alt= "Instagram"</p>
 
