@@ -4,9 +4,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yogadharshan-c-610370233/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<a href="https://github.com/yogadharshan">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a>
+![Yogadharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogadharshan&show_icons=true&theme=transparent)
+
 ### 🔥 &nbsp; About Me :
 - 🔭 I’m currently working on a Youtube Video Downloader
 - 🌱 I’m currently learning Automating with Python
