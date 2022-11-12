@@ -1,5 +1,5 @@
 <p align = "center">Hey there! 👋</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+[](https://komarev.com/ghpvc/?username=yogadharshan&label=PROFILE+VIEWS)
 
 <p align="center"><img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="360"/></p>
 <p align="center">
