@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/></p>
 <h1 align="center">Hi 👋, I'm Yogadharshan</h1>
-![Profile views](https://gpvc.arturio.dev/[yogadharshan])
+[![GitHub Views](https://komarev.com/ghpvc/?username=yogadharshan&color=FAC151)][1]
 <h3 align="center">A passionate life long learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogadharshan&label=Profile%20views&color=0e75b6&style=flat" alt="yogadharshan" /> </p>
