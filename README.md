@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on [Youtube Video downloader](https://github.com/Yogadharshan/Youtube-Video-Downloader)
 
-- 🌱 I’m currently learning **Google IT automation with Python and Web design**
+- 🌱 I’m currently learning **Full Stack Development and Game Development**
 
-- 👯 I’m looking to collaborate on **Automating with Python**
+- 👯 I’m looking to collaborate on **Full stack Development**
 
-- 🤝 I’m looking for help with **Web scraping**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yogadharshan/](https://github.com/Yogadharshan/)
 
-- 💬 Ask me about **BeautifulSoup**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **yogadharshan007@gmail.com**
+- 📫 How to reach me **to.yogadharshan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iF6W-qBpTUtQ-zpLXbSTFN0d0ixKsiMw/view?usp=share_link](https://drive.google.com/file/d/1iF6W-qBpTUtQ-zpLXbSTFN0d0ixKsiMw/view?usp=share_link)
 
