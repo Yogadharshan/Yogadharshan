@@ -10,19 +10,13 @@
 
 - 🔭 I’m currently working on [Youtube Video downloader](https://github.com/Yogadharshan/Youtube-Video-Downloader)
 
-- 🌱 I’m currently learning **Full Stack Development and Game Development**
+- 🌱 I’m currently learning **Game Development**
 
-- 👯 I’m looking to collaborate on **Full stack Development**
-
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **Game Development Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yogadharshan/](https://github.com/Yogadharshan/)
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **to.yogadharshan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iF6W-qBpTUtQ-zpLXbSTFN0d0ixKsiMw/view?usp=share_link](https://drive.google.com/file/d/1iF6W-qBpTUtQ-zpLXbSTFN0d0ixKsiMw/view?usp=share_link)
+- 📫 How to reach me **yogadharshan.nile@gmail.com**
 
 - ⚡Fact **I like Cars and Computers**
 
