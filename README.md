@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 🤝 I’m looking for help with **Game Development Development**
+- 🤝 I’m looking for help with **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yogadharshan/](https://github.com/Yogadharshan/)
 
