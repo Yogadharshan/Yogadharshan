@@ -45,5 +45,3 @@ all repositories:
 [yogadharshan.nile@gmail.com](mailto:yogadharshan.nile@gmail.com)
 
 ---
-
-later, when your game projects grow, the readme will naturally become heavier without adding words.
