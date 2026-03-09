@@ -25,7 +25,7 @@ public log of work.
 hybrid graph + rag intelligence for understanding codebases. 
 
 repository:
-coming soon
+[repodanta](https://github.com/Yogadharshan/repodanta)
 
 all repositories:
 [https://github.com/Yogadharshan/](https://github.com/Yogadharshan/)
